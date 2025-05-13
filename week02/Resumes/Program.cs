@@ -18,7 +18,7 @@ class Program
         job2._startYear = 2022;
         job2._endYear = 2025;
 
-// Create Resume object
+// Create new instance of Resume object
         Resume myResume = new Resume();
         myResume._name = "Allison Rose";
 
