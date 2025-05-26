@@ -1,4 +1,3 @@
-// Encrypted entries to maintain privacy.
 // Included dynamic filename capability for saving and loading entries.
 // Used encapsulation for prompt generator and file loading.
 
